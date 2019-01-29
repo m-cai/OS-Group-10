@@ -1,0 +1,1120 @@
+----------Starting Run #1----------
+----------Creating Processes----------
+Process: P0 	Arrival Time: 16 	Run Time: 2 	Priority: 4
+Process: P1 	Arrival Time: 10 	Run Time: 2 	Priority: 4
+Process: P2 	Arrival Time: 85 	Run Time: 9 	Priority: 1
+Process: P3 	Arrival Time: 14 	Run Time: 6 	Priority: 1
+Process: P4 	Arrival Time: 48 	Run Time: 1 	Priority: 1
+Process: P5 	Arrival Time: 19 	Run Time: 3 	Priority: 1
+Process: P6 	Arrival Time: 8 	Run Time: 8 	Priority: 2
+Process: P7 	Arrival Time: 59 	Run Time: 3 	Priority: 1
+Process: P8 	Arrival Time: 64 	Run Time: 10 	Priority: 1
+Process: P9 	Arrival Time: 35 	Run Time: 5 	Priority: 4
+Process: P10 	Arrival Time: 19 	Run Time: 1 	Priority: 1
+Process: P11 	Arrival Time: 15 	Run Time: 5 	Priority: 2
+Process: P12 	Arrival Time: 80 	Run Time: 2 	Priority: 1
+Process: P13 	Arrival Time: 27 	Run Time: 4 	Priority: 1
+Process: P14 	Arrival Time: 8 	Run Time: 9 	Priority: 2
+Process: P15 	Arrival Time: 40 	Run Time: 6 	Priority: 1
+Process: P16 	Arrival Time: 12 	Run Time: 7 	Priority: 3
+Process: P17 	Arrival Time: 24 	Run Time: 8 	Priority: 1
+Process: P18 	Arrival Time: 2 	Run Time: 10 	Priority: 1
+Process: P19 	Arrival Time: 87 	Run Time: 2 	Priority: 1
+Process: P20 	Arrival Time: 81 	Run Time: 5 	Priority: 3
+Process: P21 	Arrival Time: 97 	Run Time: 3 	Priority: 2
+Process: P22 	Arrival Time: 19 	Run Time: 1 	Priority: 1
+Process: P23 	Arrival Time: 85 	Run Time: 1 	Priority: 4
+Process: P24 	Arrival Time: 48 	Run Time: 3 	Priority: 1
+Process: P25 	Arrival Time: 40 	Run Time: 7 	Priority: 4
+Process: P26 	Arrival Time: 97 	Run Time: 1 	Priority: 4
+Process: P27 	Arrival Time: 32 	Run Time: 5 	Priority: 4
+Process: P28 	Arrival Time: 68 	Run Time: 9 	Priority: 4
+Process: P29 	Arrival Time: 89 	Run Time: 9 	Priority: 1
+Process: P30 	Arrival Time: 61 	Run Time: 10 	Priority: 1
+Process: P31 	Arrival Time: 99 	Run Time: 1 	Priority: 1
+Process: P32 	Arrival Time: 66 	Run Time: 7 	Priority: 1
+Process: P33 	Arrival Time: 99 	Run Time: 2 	Priority: 2
+Process: P34 	Arrival Time: 8 	Run Time: 3 	Priority: 2
+Process: P35 	Arrival Time: 45 	Run Time: 8 	Priority: 3
+Process: P36 	Arrival Time: 29 	Run Time: 1 	Priority: 2
+Process: P37 	Arrival Time: 68 	Run Time: 5 	Priority: 4
+Process: P38 	Arrival Time: 75 	Run Time: 4 	Priority: 1
+Process: P39 	Arrival Time: 61 	Run Time: 5 	Priority: 2
+Process: P40 	Arrival Time: 13 	Run Time: 5 	Priority: 2
+Process: P41 	Arrival Time: 0 	Run Time: 2 	Priority: 2
+Process: P42 	Arrival Time: 92 	Run Time: 1 	Priority: 2
+Process: P43 	Arrival Time: 65 	Run Time: 2 	Priority: 1
+Process: P44 	Arrival Time: 47 	Run Time: 9 	Priority: 1
+----------Processes Created----------
+----------Beginning Round Robin----------
+Quantum: 0	Process: P41
+Quantum: 1	Process: P41
+Quantum: 2	Process: P18
+Quantum: 3	Process: P18
+Quantum: 4	Process: P18
+Quantum: 5	Process: P18
+Quantum: 6	Process: P18
+Quantum: 7	Process: P18
+Quantum: 8	Process: P6
+Quantum: 9	Process: P14
+Quantum: 10	Process: P34
+Quantum: 11	Process: P18
+Quantum: 12	Process: P6
+Quantum: 13	Process: P1
+Quantum: 14	Process: P14
+Quantum: 15	Process: P34
+Quantum: 16	Process: P16
+Quantum: 17	Process: P18
+Quantum: 18	Process: P40
+Quantum: 19	Process: P6
+Quantum: 20	Process: P3
+Quantum: 21	Process: P1
+Quantum: 22	Process: P11
+Quantum: 23	Process: P14
+Quantum: 24	Process: P0
+Quantum: 25	Process: P34
+Quantum: 26	Process: P16
+Quantum: 27	Process: P18
+Quantum: 28	Process: P5
+Quantum: 29	Process: P10
+Quantum: 30	Process: P22
+Quantum: 31	Process: P40
+Quantum: 32	Process: P6
+Quantum: 33	Process: P3
+Quantum: 34	Process: P11
+Quantum: 35	Process: P17
+Quantum: 36	Process: P14
+Quantum: 37	Process: P0
+Quantum: 38	Process: P13
+Quantum: 39	Process: P16
+Quantum: 40	Process: P18
+Quantum: 41	Process: P36
+Quantum: 42	Process: P5
+Quantum: 43	Process: P27
+Quantum: 44	Process: P40
+Quantum: 45	Process: P6
+Quantum: 46	Process: P3
+Quantum: 47	Process: P9
+Quantum: 48	Process: P11
+Quantum: 49	Process: P17
+Quantum: 50	Process: P14
+Quantum: 51	Process: P13
+Quantum: 52	Process: P15
+Quantum: 53	Process: P25
+Quantum: 54	Process: P16
+Quantum: 55	Process: P5
+Quantum: 56	Process: P27
+Quantum: 57	Process: P35
+Quantum: 58	Process: P40
+Quantum: 59	Process: P6
+Quantum: 60	Process: P44
+Quantum: 61	Process: P3
+Quantum: 62	Process: P4
+Quantum: 63	Process: P24
+Quantum: 64	Process: P9
+Quantum: 65	Process: P11
+Quantum: 66	Process: P17
+Quantum: 67	Process: P14
+Quantum: 68	Process: P13
+Quantum: 69	Process: P15
+Quantum: 70	Process: P25
+Quantum: 71	Process: P16
+Quantum: 72	Process: P27
+Quantum: 73	Process: P35
+Quantum: 74	Process: P7
+Quantum: 75	Process: P40
+Quantum: 76	Process: P6
+Quantum: 77	Process: P30
+Quantum: 78	Process: P39
+Quantum: 79	Process: P44
+Quantum: 80	Process: P3
+Quantum: 81	Process: P8
+Quantum: 82	Process: P24
+Quantum: 83	Process: P43
+Quantum: 84	Process: P9
+Quantum: 85	Process: P32
+Quantum: 86	Process: P11
+Quantum: 87	Process: P17
+Quantum: 88	Process: P28
+Quantum: 89	Process: P37
+Quantum: 90	Process: P14
+Quantum: 91	Process: P13
+Quantum: 92	Process: P15
+Quantum: 93	Process: P25
+Quantum: 94	Process: P16
+Quantum: 95	Process: P27
+Quantum: 96	Process: P35
+Quantum: 97	Process: P38
+Quantum: 98	Process: P7
+Quantum: 99	Process: P6
+Quantum: 100	Process: P30
+Quantum: 101	Process: P39
+Quantum: 102	Process: P44
+Quantum: 103	Process: P3
+Quantum: 104	Process: P8
+Quantum: 105	Process: P24
+Quantum: 106	Process: P43
+Quantum: 107	Process: P9
+Quantum: 108	Process: P32
+Quantum: 109	Process: P17
+Quantum: 110	Process: P28
+Quantum: 111	Process: P37
+Quantum: 112	Process: P14
+Quantum: 113	Process: P15
+Quantum: 114	Process: P25
+Quantum: 115	Process: P16
+Quantum: 116	Process: P27
+Quantum: 117	Process: P35
+Quantum: 118	Process: P38
+Quantum: 119	Process: P7
+Quantum: 120	Process: P30
+Quantum: 121	Process: P39
+Quantum: 122	Process: P44
+Quantum: 123	Process: P8
+Quantum: 124	Process: P9
+Quantum: 125	Process: P32
+Quantum: 126	Process: P17
+Quantum: 127	Process: P28
+Quantum: 128	Process: P37
+Quantum: 129	Process: P14
+Quantum: 130	Process: P15
+Quantum: 131	Process: P25
+Quantum: 132	Process: P35
+Quantum: 133	Process: P38
+Quantum: 134	Process: P30
+Quantum: 135	Process: P39
+Quantum: 136	Process: P44
+Quantum: 137	Process: P8
+Quantum: 138	Process: P32
+Quantum: 139	Process: P17
+Quantum: 140	Process: P28
+Quantum: 141	Process: P37
+Quantum: 142	Process: P15
+Quantum: 143	Process: P25
+Quantum: 144	Process: P35
+Quantum: 145	Process: P38
+Quantum: 146	Process: P30
+Quantum: 147	Process: P39
+Quantum: 148	Process: P44
+Quantum: 149	Process: P8
+Quantum: 150	Process: P32
+Quantum: 151	Process: P17
+Quantum: 152	Process: P28
+Quantum: 153	Process: P37
+Quantum: 154	Process: P25
+Quantum: 155	Process: P35
+Quantum: 156	Process: P30
+Quantum: 157	Process: P44
+Quantum: 158	Process: P8
+Quantum: 159	Process: P32
+Quantum: 160	Process: P28
+Quantum: 161	Process: P35
+Quantum: 162	Process: P30
+Quantum: 163	Process: P44
+Quantum: 164	Process: P8
+Quantum: 165	Process: P32
+Quantum: 166	Process: P28
+Quantum: 167	Process: P30
+Quantum: 168	Process: P44
+Quantum: 169	Process: P8
+Quantum: 170	Process: P28
+Quantum: 171	Process: P30
+Quantum: 172	Process: P8
+Quantum: 173	Process: P28
+Quantum: 174	Process: P30
+Quantum: 175	Process: P8
+----------Printing Statistics----------
+Avg Response Time: 10.79	Avg TAT: 70.18	Avg Wait Time: 65.00
+Number of Processes: 34	Throughput: 0.19
+----------Round Robin Finished----------
+----------Finish Run #1----------
+
+----------Starting Run #2----------
+----------Creating Processes----------
+Process: P0 	Arrival Time: 47 	Run Time: 9 	Priority: 3
+Process: P1 	Arrival Time: 66 	Run Time: 7 	Priority: 4
+Process: P2 	Arrival Time: 0 	Run Time: 1 	Priority: 3
+Process: P3 	Arrival Time: 75 	Run Time: 5 	Priority: 1
+Process: P4 	Arrival Time: 77 	Run Time: 10 	Priority: 4
+Process: P5 	Arrival Time: 3 	Run Time: 6 	Priority: 4
+Process: P6 	Arrival Time: 17 	Run Time: 4 	Priority: 4
+Process: P7 	Arrival Time: 38 	Run Time: 8 	Priority: 1
+Process: P8 	Arrival Time: 67 	Run Time: 4 	Priority: 3
+Process: P9 	Arrival Time: 59 	Run Time: 5 	Priority: 2
+Process: P10 	Arrival Time: 14 	Run Time: 5 	Priority: 3
+Process: P11 	Arrival Time: 47 	Run Time: 8 	Priority: 1
+Process: P12 	Arrival Time: 53 	Run Time: 6 	Priority: 1
+Process: P13 	Arrival Time: 26 	Run Time: 4 	Priority: 3
+Process: P14 	Arrival Time: 19 	Run Time: 7 	Priority: 1
+Process: P15 	Arrival Time: 80 	Run Time: 1 	Priority: 3
+Process: P16 	Arrival Time: 30 	Run Time: 10 	Priority: 1
+Process: P17 	Arrival Time: 89 	Run Time: 7 	Priority: 1
+Process: P18 	Arrival Time: 45 	Run Time: 1 	Priority: 3
+Process: P19 	Arrival Time: 95 	Run Time: 1 	Priority: 4
+Process: P20 	Arrival Time: 55 	Run Time: 1 	Priority: 2
+Process: P21 	Arrival Time: 3 	Run Time: 9 	Priority: 3
+Process: P22 	Arrival Time: 76 	Run Time: 1 	Priority: 1
+Process: P23 	Arrival Time: 30 	Run Time: 5 	Priority: 1
+Process: P24 	Arrival Time: 98 	Run Time: 1 	Priority: 4
+Process: P25 	Arrival Time: 12 	Run Time: 9 	Priority: 2
+Process: P26 	Arrival Time: 80 	Run Time: 6 	Priority: 1
+Process: P27 	Arrival Time: 63 	Run Time: 5 	Priority: 1
+Process: P28 	Arrival Time: 19 	Run Time: 10 	Priority: 4
+Process: P29 	Arrival Time: 89 	Run Time: 8 	Priority: 3
+Process: P30 	Arrival Time: 53 	Run Time: 2 	Priority: 1
+Process: P31 	Arrival Time: 62 	Run Time: 10 	Priority: 3
+Process: P32 	Arrival Time: 83 	Run Time: 5 	Priority: 3
+Process: P33 	Arrival Time: 15 	Run Time: 5 	Priority: 1
+Process: P34 	Arrival Time: 86 	Run Time: 8 	Priority: 1
+Process: P35 	Arrival Time: 25 	Run Time: 8 	Priority: 3
+Process: P36 	Arrival Time: 87 	Run Time: 9 	Priority: 3
+Process: P37 	Arrival Time: 90 	Run Time: 7 	Priority: 1
+Process: P38 	Arrival Time: 24 	Run Time: 8 	Priority: 1
+Process: P39 	Arrival Time: 3 	Run Time: 1 	Priority: 1
+Process: P40 	Arrival Time: 91 	Run Time: 3 	Priority: 1
+Process: P41 	Arrival Time: 54 	Run Time: 9 	Priority: 1
+Process: P42 	Arrival Time: 39 	Run Time: 2 	Priority: 1
+Process: P43 	Arrival Time: 47 	Run Time: 8 	Priority: 3
+Process: P44 	Arrival Time: 60 	Run Time: 2 	Priority: 1
+----------Processes Created----------
+----------Beginning Round Robin----------
+Quantum: 0	Process: P2
+Quantum: 1
+Quantum: 2
+Quantum: 3	Process: P5
+Quantum: 4	Process: P21
+Quantum: 5	Process: P39
+Quantum: 6	Process: P5
+Quantum: 7	Process: P21
+Quantum: 8	Process: P5
+Quantum: 9	Process: P21
+Quantum: 10	Process: P5
+Quantum: 11	Process: P21
+Quantum: 12	Process: P5
+Quantum: 13	Process: P25
+Quantum: 14	Process: P21
+Quantum: 15	Process: P5
+Quantum: 16	Process: P10
+Quantum: 17	Process: P25
+Quantum: 18	Process: P33
+Quantum: 19	Process: P21
+Quantum: 20	Process: P6
+Quantum: 21	Process: P10
+Quantum: 22	Process: P25
+Quantum: 23	Process: P14
+Quantum: 24	Process: P28
+Quantum: 25	Process: P33
+Quantum: 26	Process: P21
+Quantum: 27	Process: P6
+Quantum: 28	Process: P10
+Quantum: 29	Process: P25
+Quantum: 30	Process: P38
+Quantum: 31	Process: P14
+Quantum: 32	Process: P35
+Quantum: 33	Process: P28
+Quantum: 34	Process: P13
+Quantum: 35	Process: P33
+Quantum: 36	Process: P21
+Quantum: 37	Process: P6
+Quantum: 38	Process: P10
+Quantum: 39	Process: P16
+Quantum: 40	Process: P23
+Quantum: 41	Process: P25
+Quantum: 42	Process: P38
+Quantum: 43	Process: P14
+Quantum: 44	Process: P35
+Quantum: 45	Process: P28
+Quantum: 46	Process: P13
+Quantum: 47	Process: P33
+Quantum: 48	Process: P21
+Quantum: 49	Process: P7
+Quantum: 50	Process: P6
+Quantum: 51	Process: P42
+Quantum: 52	Process: P10
+Quantum: 53	Process: P16
+Quantum: 54	Process: P23
+Quantum: 55	Process: P25
+Quantum: 56	Process: P38
+Quantum: 57	Process: P14
+Quantum: 58	Process: P18
+Quantum: 59	Process: P35
+Quantum: 60	Process: P28
+Quantum: 61	Process: P0
+Quantum: 62	Process: P11
+Quantum: 63	Process: P43
+Quantum: 64	Process: P13
+Quantum: 65	Process: P33
+Quantum: 66	Process: P7
+Quantum: 67	Process: P42
+Quantum: 68	Process: P12
+Quantum: 69	Process: P30
+Quantum: 70	Process: P41
+Quantum: 71	Process: P16
+Quantum: 72	Process: P20
+Quantum: 73	Process: P23
+Quantum: 74	Process: P25
+Quantum: 75	Process: P38
+Quantum: 76	Process: P14
+Quantum: 77	Process: P9
+Quantum: 78	Process: P44
+Quantum: 79	Process: P35
+Quantum: 80	Process: P28
+Quantum: 81	Process: P31
+Quantum: 82	Process: P0
+Quantum: 83	Process: P27
+Quantum: 84	Process: P11
+Quantum: 85	Process: P43
+Quantum: 86	Process: P13
+Quantum: 87	Process: P1
+Quantum: 88	Process: P8
+Quantum: 89	Process: P7
+Quantum: 90	Process: P12
+Quantum: 91	Process: P30
+Quantum: 92	Process: P41
+Quantum: 93	Process: P16
+Quantum: 94	Process: P23
+Quantum: 95	Process: P3
+Quantum: 96	Process: P25
+Quantum: 97	Process: P22
+Quantum: 98	Process: P38
+Quantum: 99	Process: P4
+Quantum: 100	Process: P14
+Quantum: 101	Process: P9
+Quantum: 102	Process: P44
+Quantum: 103	Process: P35
+Quantum: 104	Process: P28
+Quantum: 105	Process: P31
+Quantum: 106	Process: P0
+Quantum: 107	Process: P27
+Quantum: 108	Process: P11
+Quantum: 109	Process: P43
+Quantum: 110	Process: P1
+Quantum: 111	Process: P8
+Quantum: 112	Process: P7
+Quantum: 113	Process: P12
+Quantum: 114	Process: P41
+Quantum: 115	Process: P16
+Quantum: 116	Process: P23
+Quantum: 117	Process: P3
+Quantum: 118	Process: P25
+Quantum: 119	Process: P38
+Quantum: 120	Process: P4
+Quantum: 121	Process: P14
+Quantum: 122	Process: P9
+Quantum: 123	Process: P35
+Quantum: 124	Process: P28
+Quantum: 125	Process: P31
+Quantum: 126	Process: P0
+Quantum: 127	Process: P27
+Quantum: 128	Process: P11
+Quantum: 129	Process: P43
+Quantum: 130	Process: P1
+Quantum: 131	Process: P8
+Quantum: 132	Process: P7
+Quantum: 133	Process: P12
+Quantum: 134	Process: P41
+Quantum: 135	Process: P16
+Quantum: 136	Process: P3
+Quantum: 137	Process: P38
+Quantum: 138	Process: P4
+Quantum: 139	Process: P9
+Quantum: 140	Process: P35
+Quantum: 141	Process: P28
+Quantum: 142	Process: P31
+Quantum: 143	Process: P0
+Quantum: 144	Process: P27
+Quantum: 145	Process: P11
+Quantum: 146	Process: P43
+Quantum: 147	Process: P1
+Quantum: 148	Process: P8
+Quantum: 149	Process: P7
+Quantum: 150	Process: P12
+Quantum: 151	Process: P41
+Quantum: 152	Process: P16
+Quantum: 153	Process: P3
+Quantum: 154	Process: P38
+Quantum: 155	Process: P4
+Quantum: 156	Process: P9
+Quantum: 157	Process: P35
+Quantum: 158	Process: P28
+Quantum: 159	Process: P31
+Quantum: 160	Process: P0
+Quantum: 161	Process: P27
+Quantum: 162	Process: P11
+Quantum: 163	Process: P43
+Quantum: 164	Process: P1
+Quantum: 165	Process: P7
+Quantum: 166	Process: P12
+Quantum: 167	Process: P41
+Quantum: 168	Process: P16
+Quantum: 169	Process: P3
+Quantum: 170	Process: P4
+Quantum: 171	Process: P28
+Quantum: 172	Process: P31
+Quantum: 173	Process: P0
+Quantum: 174	Process: P11
+Quantum: 175	Process: P43
+Quantum: 176	Process: P1
+Quantum: 177	Process: P7
+Quantum: 178	Process: P41
+Quantum: 179	Process: P16
+Quantum: 180	Process: P4
+Quantum: 181	Process: P31
+Quantum: 182	Process: P0
+Quantum: 183	Process: P11
+Quantum: 184	Process: P43
+Quantum: 185	Process: P1
+Quantum: 186	Process: P41
+Quantum: 187	Process: P16
+Quantum: 188	Process: P4
+Quantum: 189	Process: P31
+Quantum: 190	Process: P0
+Quantum: 191	Process: P41
+Quantum: 192	Process: P4
+Quantum: 193	Process: P31
+Quantum: 194	Process: P4
+Quantum: 195	Process: P31
+Quantum: 196	Process: P4
+----------Printing Statistics----------
+Avg Response Time: 11.35	Avg TAT: 83.65	Avg Wait Time: 77.91
+Number of Processes: 34	Throughput: 0.17
+----------Round Robin Finished----------
+----------Finish Run #2----------
+
+----------Starting Run #3----------
+----------Creating Processes----------
+Process: P0 	Arrival Time: 59 	Run Time: 3 	Priority: 3
+Process: P1 	Arrival Time: 80 	Run Time: 1 	Priority: 1
+Process: P2 	Arrival Time: 73 	Run Time: 5 	Priority: 1
+Process: P3 	Arrival Time: 42 	Run Time: 7 	Priority: 4
+Process: P4 	Arrival Time: 79 	Run Time: 10 	Priority: 3
+Process: P5 	Arrival Time: 23 	Run Time: 3 	Priority: 4
+Process: P6 	Arrival Time: 28 	Run Time: 2 	Priority: 3
+Process: P7 	Arrival Time: 76 	Run Time: 1 	Priority: 4
+Process: P8 	Arrival Time: 35 	Run Time: 10 	Priority: 1
+Process: P9 	Arrival Time: 74 	Run Time: 9 	Priority: 1
+Process: P10 	Arrival Time: 81 	Run Time: 9 	Priority: 2
+Process: P11 	Arrival Time: 42 	Run Time: 5 	Priority: 4
+Process: P12 	Arrival Time: 65 	Run Time: 8 	Priority: 1
+Process: P13 	Arrival Time: 26 	Run Time: 6 	Priority: 3
+Process: P14 	Arrival Time: 72 	Run Time: 3 	Priority: 1
+Process: P15 	Arrival Time: 45 	Run Time: 6 	Priority: 2
+Process: P16 	Arrival Time: 72 	Run Time: 4 	Priority: 1
+Process: P17 	Arrival Time: 47 	Run Time: 1 	Priority: 1
+Process: P18 	Arrival Time: 91 	Run Time: 9 	Priority: 3
+Process: P19 	Arrival Time: 44 	Run Time: 1 	Priority: 3
+Process: P20 	Arrival Time: 58 	Run Time: 4 	Priority: 1
+Process: P21 	Arrival Time: 10 	Run Time: 2 	Priority: 3
+Process: P22 	Arrival Time: 77 	Run Time: 1 	Priority: 1
+Process: P23 	Arrival Time: 34 	Run Time: 3 	Priority: 2
+Process: P24 	Arrival Time: 74 	Run Time: 3 	Priority: 1
+Process: P25 	Arrival Time: 7 	Run Time: 3 	Priority: 1
+Process: P26 	Arrival Time: 44 	Run Time: 3 	Priority: 1
+Process: P27 	Arrival Time: 0 	Run Time: 3 	Priority: 2
+Process: P28 	Arrival Time: 77 	Run Time: 3 	Priority: 1
+Process: P29 	Arrival Time: 97 	Run Time: 4 	Priority: 1
+Process: P30 	Arrival Time: 25 	Run Time: 1 	Priority: 1
+Process: P31 	Arrival Time: 25 	Run Time: 4 	Priority: 1
+Process: P32 	Arrival Time: 81 	Run Time: 4 	Priority: 1
+Process: P33 	Arrival Time: 61 	Run Time: 6 	Priority: 1
+Process: P34 	Arrival Time: 65 	Run Time: 2 	Priority: 1
+Process: P35 	Arrival Time: 72 	Run Time: 5 	Priority: 1
+Process: P36 	Arrival Time: 54 	Run Time: 4 	Priority: 2
+Process: P37 	Arrival Time: 90 	Run Time: 1 	Priority: 1
+Process: P38 	Arrival Time: 10 	Run Time: 6 	Priority: 4
+Process: P39 	Arrival Time: 48 	Run Time: 6 	Priority: 1
+Process: P40 	Arrival Time: 79 	Run Time: 8 	Priority: 1
+Process: P41 	Arrival Time: 36 	Run Time: 5 	Priority: 1
+Process: P42 	Arrival Time: 14 	Run Time: 4 	Priority: 2
+Process: P43 	Arrival Time: 26 	Run Time: 8 	Priority: 4
+Process: P44 	Arrival Time: 1 	Run Time: 8 	Priority: 1
+----------Processes Created----------
+----------Beginning Round Robin----------
+Quantum: 0	Process: P27
+Quantum: 1	Process: P44
+Quantum: 2	Process: P27
+Quantum: 3	Process: P44
+Quantum: 4	Process: P27
+Quantum: 5	Process: P44
+Quantum: 6	Process: P44
+Quantum: 7	Process: P25
+Quantum: 8	Process: P44
+Quantum: 9	Process: P25
+Quantum: 10	Process: P44
+Quantum: 11	Process: P21
+Quantum: 12	Process: P38
+Quantum: 13	Process: P25
+Quantum: 14	Process: P44
+Quantum: 15	Process: P21
+Quantum: 16	Process: P38
+Quantum: 17	Process: P42
+Quantum: 18	Process: P44
+Quantum: 19	Process: P38
+Quantum: 20	Process: P42
+Quantum: 21	Process: P38
+Quantum: 22	Process: P42
+Quantum: 23	Process: P38
+Quantum: 24	Process: P5
+Quantum: 25	Process: P42
+Quantum: 26	Process: P38
+Quantum: 27	Process: P30
+Quantum: 28	Process: P31
+Quantum: 29	Process: P5
+Quantum: 30	Process: P13
+Quantum: 31	Process: P43
+Quantum: 32	Process: P6
+Quantum: 33	Process: P31
+Quantum: 34	Process: P5
+Quantum: 35	Process: P13
+Quantum: 36	Process: P43
+Quantum: 37	Process: P6
+Quantum: 38	Process: P23
+Quantum: 39	Process: P31
+Quantum: 40	Process: P8
+Quantum: 41	Process: P41
+Quantum: 42	Process: P13
+Quantum: 43	Process: P43
+Quantum: 44	Process: P23
+Quantum: 45	Process: P31
+Quantum: 46	Process: P8
+Quantum: 47	Process: P3
+Quantum: 48	Process: P11
+Quantum: 49	Process: P41
+Quantum: 50	Process: P13
+Quantum: 51	Process: P19
+Quantum: 52	Process: P26
+Quantum: 53	Process: P43
+Quantum: 54	Process: P15
+Quantum: 55	Process: P23
+Quantum: 56	Process: P17
+Quantum: 57	Process: P8
+Quantum: 58	Process: P39
+Quantum: 59	Process: P3
+Quantum: 60	Process: P11
+Quantum: 61	Process: P41
+Quantum: 62	Process: P13
+Quantum: 63	Process: P26
+Quantum: 64	Process: P36
+Quantum: 65	Process: P43
+Quantum: 66	Process: P15
+Quantum: 67	Process: P20
+Quantum: 68	Process: P8
+Quantum: 69	Process: P0
+Quantum: 70	Process: P39
+Quantum: 71	Process: P3
+Quantum: 72	Process: P33
+Quantum: 73	Process: P11
+Quantum: 74	Process: P41
+Quantum: 75	Process: P13
+Quantum: 76	Process: P26
+Quantum: 77	Process: P12
+Quantum: 78	Process: P34
+Quantum: 79	Process: P36
+Quantum: 80	Process: P43
+Quantum: 81	Process: P15
+Quantum: 82	Process: P20
+Quantum: 83	Process: P8
+Quantum: 84	Process: P0
+Quantum: 85	Process: P39
+Quantum: 86	Process: P14
+Quantum: 87	Process: P16
+Quantum: 88	Process: P35
+Quantum: 89	Process: P3
+Quantum: 90	Process: P2
+Quantum: 91	Process: P33
+Quantum: 92	Process: P9
+Quantum: 93	Process: P24
+Quantum: 94	Process: P11
+Quantum: 95	Process: P41
+Quantum: 96	Process: P7
+Quantum: 97	Process: P22
+Quantum: 98	Process: P28
+Quantum: 99	Process: P12
+Quantum: 100	Process: P34
+Quantum: 101	Process: P36
+Quantum: 102	Process: P43
+Quantum: 103	Process: P15
+Quantum: 104	Process: P20
+Quantum: 105	Process: P8
+Quantum: 106	Process: P0
+Quantum: 107	Process: P39
+Quantum: 108	Process: P14
+Quantum: 109	Process: P16
+Quantum: 110	Process: P35
+Quantum: 111	Process: P3
+Quantum: 112	Process: P2
+Quantum: 113	Process: P33
+Quantum: 114	Process: P9
+Quantum: 115	Process: P24
+Quantum: 116	Process: P11
+Quantum: 117	Process: P28
+Quantum: 118	Process: P12
+Quantum: 119	Process: P36
+Quantum: 120	Process: P43
+Quantum: 121	Process: P15
+Quantum: 122	Process: P20
+Quantum: 123	Process: P8
+Quantum: 124	Process: P39
+Quantum: 125	Process: P14
+Quantum: 126	Process: P16
+Quantum: 127	Process: P35
+Quantum: 128	Process: P3
+Quantum: 129	Process: P2
+Quantum: 130	Process: P33
+Quantum: 131	Process: P9
+Quantum: 132	Process: P24
+Quantum: 133	Process: P28
+Quantum: 134	Process: P12
+Quantum: 135	Process: P15
+Quantum: 136	Process: P8
+Quantum: 137	Process: P39
+Quantum: 138	Process: P16
+Quantum: 139	Process: P35
+Quantum: 140	Process: P3
+Quantum: 141	Process: P2
+Quantum: 142	Process: P33
+Quantum: 143	Process: P9
+Quantum: 144	Process: P12
+Quantum: 145	Process: P8
+Quantum: 146	Process: P35
+Quantum: 147	Process: P2
+Quantum: 148	Process: P33
+Quantum: 149	Process: P9
+Quantum: 150	Process: P12
+Quantum: 151	Process: P8
+Quantum: 152	Process: P9
+Quantum: 153	Process: P12
+Quantum: 154	Process: P9
+Quantum: 155	Process: P12
+Quantum: 156	Process: P9
+Quantum: 157	Process: P9
+----------Printing Statistics----------
+Avg Response Time: 8.59	Avg TAT: 47.78	Avg Wait Time: 43.51
+Number of Processes: 37	Throughput: 0.23
+----------Round Robin Finished----------
+----------Finish Run #3----------
+
+----------Starting Run #4----------
+----------Creating Processes----------
+Process: P0 	Arrival Time: 52 	Run Time: 10 	Priority: 2
+Process: P1 	Arrival Time: 81 	Run Time: 1 	Priority: 1
+Process: P2 	Arrival Time: 47 	Run Time: 1 	Priority: 4
+Process: P3 	Arrival Time: 15 	Run Time: 4 	Priority: 3
+Process: P4 	Arrival Time: 97 	Run Time: 4 	Priority: 3
+Process: P5 	Arrival Time: 61 	Run Time: 3 	Priority: 4
+Process: P6 	Arrival Time: 45 	Run Time: 5 	Priority: 4
+Process: P7 	Arrival Time: 19 	Run Time: 9 	Priority: 3
+Process: P8 	Arrival Time: 16 	Run Time: 8 	Priority: 4
+Process: P9 	Arrival Time: 9 	Run Time: 10 	Priority: 3
+Process: P10 	Arrival Time: 24 	Run Time: 7 	Priority: 3
+Process: P11 	Arrival Time: 51 	Run Time: 7 	Priority: 4
+Process: P12 	Arrival Time: 12 	Run Time: 3 	Priority: 1
+Process: P13 	Arrival Time: 66 	Run Time: 9 	Priority: 2
+Process: P14 	Arrival Time: 32 	Run Time: 2 	Priority: 2
+Process: P15 	Arrival Time: 55 	Run Time: 5 	Priority: 4
+Process: P16 	Arrival Time: 89 	Run Time: 1 	Priority: 2
+Process: P17 	Arrival Time: 13 	Run Time: 4 	Priority: 1
+Process: P18 	Arrival Time: 33 	Run Time: 9 	Priority: 4
+Process: P19 	Arrival Time: 3 	Run Time: 4 	Priority: 1
+Process: P20 	Arrival Time: 1 	Run Time: 1 	Priority: 1
+Process: P21 	Arrival Time: 86 	Run Time: 10 	Priority: 1
+Process: P22 	Arrival Time: 75 	Run Time: 4 	Priority: 2
+Process: P23 	Arrival Time: 26 	Run Time: 8 	Priority: 2
+Process: P24 	Arrival Time: 56 	Run Time: 9 	Priority: 1
+Process: P25 	Arrival Time: 58 	Run Time: 1 	Priority: 3
+Process: P26 	Arrival Time: 99 	Run Time: 1 	Priority: 3
+Process: P27 	Arrival Time: 61 	Run Time: 1 	Priority: 4
+Process: P28 	Arrival Time: 22 	Run Time: 3 	Priority: 1
+Process: P29 	Arrival Time: 58 	Run Time: 5 	Priority: 3
+Process: P30 	Arrival Time: 88 	Run Time: 7 	Priority: 4
+Process: P31 	Arrival Time: 20 	Run Time: 4 	Priority: 2
+Process: P32 	Arrival Time: 84 	Run Time: 5 	Priority: 1
+Process: P33 	Arrival Time: 26 	Run Time: 4 	Priority: 1
+Process: P34 	Arrival Time: 15 	Run Time: 9 	Priority: 2
+Process: P35 	Arrival Time: 96 	Run Time: 1 	Priority: 2
+Process: P36 	Arrival Time: 81 	Run Time: 7 	Priority: 1
+Process: P37 	Arrival Time: 16 	Run Time: 8 	Priority: 2
+Process: P38 	Arrival Time: 20 	Run Time: 10 	Priority: 4
+Process: P39 	Arrival Time: 10 	Run Time: 1 	Priority: 4
+Process: P40 	Arrival Time: 51 	Run Time: 10 	Priority: 2
+Process: P41 	Arrival Time: 62 	Run Time: 2 	Priority: 4
+Process: P42 	Arrival Time: 94 	Run Time: 7 	Priority: 1
+Process: P43 	Arrival Time: 16 	Run Time: 2 	Priority: 1
+Process: P44 	Arrival Time: 42 	Run Time: 1 	Priority: 1
+----------Processes Created----------
+----------Beginning Round Robin----------
+Quantum: 0
+Quantum: 1	Process: P20
+Quantum: 2
+Quantum: 3	Process: P19
+Quantum: 4	Process: P19
+Quantum: 5	Process: P19
+Quantum: 6	Process: P19
+Quantum: 7
+Quantum: 8
+Quantum: 9	Process: P9
+Quantum: 10	Process: P39
+Quantum: 11	Process: P9
+Quantum: 12	Process: P12
+Quantum: 13	Process: P9
+Quantum: 14	Process: P17
+Quantum: 15	Process: P12
+Quantum: 16	Process: P9
+Quantum: 17	Process: P3
+Quantum: 18	Process: P34
+Quantum: 19	Process: P17
+Quantum: 20	Process: P8
+Quantum: 21	Process: P37
+Quantum: 22	Process: P43
+Quantum: 23	Process: P12
+Quantum: 24	Process: P9
+Quantum: 25	Process: P3
+Quantum: 26	Process: P7
+Quantum: 27	Process: P34
+Quantum: 28	Process: P31
+Quantum: 29	Process: P38
+Quantum: 30	Process: P17
+Quantum: 31	Process: P8
+Quantum: 32	Process: P28
+Quantum: 33	Process: P37
+Quantum: 34	Process: P43
+Quantum: 35	Process: P10
+Quantum: 36	Process: P9
+Quantum: 37	Process: P23
+Quantum: 38	Process: P33
+Quantum: 39	Process: P3
+Quantum: 40	Process: P7
+Quantum: 41	Process: P34
+Quantum: 42	Process: P31
+Quantum: 43	Process: P38
+Quantum: 44	Process: P17
+Quantum: 45	Process: P14
+Quantum: 46	Process: P8
+Quantum: 47	Process: P18
+Quantum: 48	Process: P28
+Quantum: 49	Process: P37
+Quantum: 50	Process: P10
+Quantum: 51	Process: P9
+Quantum: 52	Process: P23
+Quantum: 53	Process: P33
+Quantum: 54	Process: P3
+Quantum: 55	Process: P7
+Quantum: 56	Process: P44
+Quantum: 57	Process: P34
+Quantum: 58	Process: P31
+Quantum: 59	Process: P38
+Quantum: 60	Process: P6
+Quantum: 61	Process: P14
+Quantum: 62	Process: P2
+Quantum: 63	Process: P8
+Quantum: 64	Process: P18
+Quantum: 65	Process: P28
+Quantum: 66	Process: P37
+Quantum: 67	Process: P11
+Quantum: 68	Process: P40
+Quantum: 69	Process: P10
+Quantum: 70	Process: P0
+Quantum: 71	Process: P9
+Quantum: 72	Process: P23
+Quantum: 73	Process: P33
+Quantum: 74	Process: P15
+Quantum: 75	Process: P24
+Quantum: 76	Process: P7
+Quantum: 77	Process: P25
+Quantum: 78	Process: P29
+Quantum: 79	Process: P34
+Quantum: 80	Process: P31
+Quantum: 81	Process: P38
+Quantum: 82	Process: P5
+Quantum: 83	Process: P27
+Quantum: 84	Process: P6
+Quantum: 85	Process: P41
+Quantum: 86	Process: P8
+Quantum: 87	Process: P18
+Quantum: 88	Process: P13
+Quantum: 89	Process: P37
+Quantum: 90	Process: P11
+Quantum: 91	Process: P40
+Quantum: 92	Process: P10
+Quantum: 93	Process: P0
+Quantum: 94	Process: P9
+Quantum: 95	Process: P23
+Quantum: 96	Process: P33
+Quantum: 97	Process: P22
+Quantum: 98	Process: P15
+Quantum: 99	Process: P24
+Quantum: 100	Process: P7
+Quantum: 101	Process: P29
+Quantum: 102	Process: P34
+Quantum: 103	Process: P38
+Quantum: 104	Process: P5
+Quantum: 105	Process: P6
+Quantum: 106	Process: P41
+Quantum: 107	Process: P8
+Quantum: 108	Process: P18
+Quantum: 109	Process: P13
+Quantum: 110	Process: P37
+Quantum: 111	Process: P11
+Quantum: 112	Process: P40
+Quantum: 113	Process: P10
+Quantum: 114	Process: P0
+Quantum: 115	Process: P9
+Quantum: 116	Process: P23
+Quantum: 117	Process: P22
+Quantum: 118	Process: P15
+Quantum: 119	Process: P24
+Quantum: 120	Process: P7
+Quantum: 121	Process: P29
+Quantum: 122	Process: P34
+Quantum: 123	Process: P38
+Quantum: 124	Process: P5
+Quantum: 125	Process: P6
+Quantum: 126	Process: P8
+Quantum: 127	Process: P18
+Quantum: 128	Process: P13
+Quantum: 129	Process: P37
+Quantum: 130	Process: P11
+Quantum: 131	Process: P40
+Quantum: 132	Process: P10
+Quantum: 133	Process: P0
+Quantum: 134	Process: P23
+Quantum: 135	Process: P22
+Quantum: 136	Process: P15
+Quantum: 137	Process: P24
+Quantum: 138	Process: P7
+Quantum: 139	Process: P29
+Quantum: 140	Process: P34
+Quantum: 141	Process: P38
+Quantum: 142	Process: P6
+Quantum: 143	Process: P8
+Quantum: 144	Process: P18
+Quantum: 145	Process: P13
+Quantum: 146	Process: P37
+Quantum: 147	Process: P11
+Quantum: 148	Process: P40
+Quantum: 149	Process: P10
+Quantum: 150	Process: P0
+Quantum: 151	Process: P23
+Quantum: 152	Process: P22
+Quantum: 153	Process: P15
+Quantum: 154	Process: P24
+Quantum: 155	Process: P7
+Quantum: 156	Process: P29
+Quantum: 157	Process: P34
+Quantum: 158	Process: P38
+Quantum: 159	Process: P18
+Quantum: 160	Process: P13
+Quantum: 161	Process: P11
+Quantum: 162	Process: P40
+Quantum: 163	Process: P0
+Quantum: 164	Process: P23
+Quantum: 165	Process: P24
+Quantum: 166	Process: P7
+Quantum: 167	Process: P38
+Quantum: 168	Process: P18
+Quantum: 169	Process: P13
+Quantum: 170	Process: P11
+Quantum: 171	Process: P40
+Quantum: 172	Process: P0
+Quantum: 173	Process: P24
+Quantum: 174	Process: P38
+Quantum: 175	Process: P18
+Quantum: 176	Process: P13
+Quantum: 177	Process: P40
+Quantum: 178	Process: P0
+Quantum: 179	Process: P24
+Quantum: 180	Process: P13
+Quantum: 181	Process: P40
+Quantum: 182	Process: P0
+Quantum: 183	Process: P24
+Quantum: 184	Process: P13
+Quantum: 185	Process: P40
+Quantum: 186	Process: P0
+----------Printing Statistics----------
+Avg Response Time: 11.37	Avg TAT: 77.97	Avg Wait Time: 72.74
+Number of Processes: 35	Throughput: 0.19
+----------Round Robin Finished----------
+----------Finish Run #4----------
+
+----------Starting Run #5----------
+----------Creating Processes----------
+Process: P0 	Arrival Time: 33 	Run Time: 1 	Priority: 1
+Process: P1 	Arrival Time: 70 	Run Time: 7 	Priority: 3
+Process: P2 	Arrival Time: 78 	Run Time: 1 	Priority: 3
+Process: P3 	Arrival Time: 94 	Run Time: 6 	Priority: 3
+Process: P4 	Arrival Time: 5 	Run Time: 1 	Priority: 2
+Process: P5 	Arrival Time: 60 	Run Time: 4 	Priority: 4
+Process: P6 	Arrival Time: 32 	Run Time: 4 	Priority: 4
+Process: P7 	Arrival Time: 98 	Run Time: 4 	Priority: 1
+Process: P8 	Arrival Time: 85 	Run Time: 1 	Priority: 4
+Process: P9 	Arrival Time: 39 	Run Time: 1 	Priority: 1
+Process: P10 	Arrival Time: 96 	Run Time: 9 	Priority: 2
+Process: P11 	Arrival Time: 97 	Run Time: 1 	Priority: 4
+Process: P12 	Arrival Time: 92 	Run Time: 6 	Priority: 2
+Process: P13 	Arrival Time: 21 	Run Time: 6 	Priority: 1
+Process: P14 	Arrival Time: 6 	Run Time: 4 	Priority: 1
+Process: P15 	Arrival Time: 61 	Run Time: 8 	Priority: 1
+Process: P16 	Arrival Time: 7 	Run Time: 8 	Priority: 1
+Process: P17 	Arrival Time: 51 	Run Time: 1 	Priority: 3
+Process: P18 	Arrival Time: 31 	Run Time: 7 	Priority: 1
+Process: P19 	Arrival Time: 92 	Run Time: 3 	Priority: 2
+Process: P20 	Arrival Time: 39 	Run Time: 7 	Priority: 1
+Process: P21 	Arrival Time: 93 	Run Time: 9 	Priority: 1
+Process: P22 	Arrival Time: 14 	Run Time: 1 	Priority: 1
+Process: P23 	Arrival Time: 51 	Run Time: 1 	Priority: 2
+Process: P24 	Arrival Time: 18 	Run Time: 3 	Priority: 3
+Process: P25 	Arrival Time: 53 	Run Time: 1 	Priority: 4
+Process: P26 	Arrival Time: 92 	Run Time: 7 	Priority: 4
+Process: P27 	Arrival Time: 47 	Run Time: 2 	Priority: 2
+Process: P28 	Arrival Time: 15 	Run Time: 5 	Priority: 3
+Process: P29 	Arrival Time: 33 	Run Time: 6 	Priority: 1
+Process: P30 	Arrival Time: 25 	Run Time: 9 	Priority: 2
+Process: P31 	Arrival Time: 77 	Run Time: 1 	Priority: 1
+Process: P32 	Arrival Time: 59 	Run Time: 1 	Priority: 4
+Process: P33 	Arrival Time: 1 	Run Time: 2 	Priority: 1
+Process: P34 	Arrival Time: 99 	Run Time: 6 	Priority: 4
+Process: P35 	Arrival Time: 57 	Run Time: 6 	Priority: 1
+Process: P36 	Arrival Time: 88 	Run Time: 10 	Priority: 4
+Process: P37 	Arrival Time: 24 	Run Time: 9 	Priority: 1
+Process: P38 	Arrival Time: 63 	Run Time: 6 	Priority: 2
+Process: P39 	Arrival Time: 92 	Run Time: 1 	Priority: 3
+Process: P40 	Arrival Time: 48 	Run Time: 7 	Priority: 3
+Process: P41 	Arrival Time: 33 	Run Time: 1 	Priority: 1
+Process: P42 	Arrival Time: 39 	Run Time: 1 	Priority: 1
+Process: P43 	Arrival Time: 15 	Run Time: 1 	Priority: 2
+Process: P44 	Arrival Time: 82 	Run Time: 1 	Priority: 1
+----------Processes Created----------
+----------Beginning Round Robin----------
+Quantum: 0
+Quantum: 1	Process: P33
+Quantum: 2	Process: P33
+Quantum: 3
+Quantum: 4
+Quantum: 5	Process: P4
+Quantum: 6	Process: P14
+Quantum: 7	Process: P16
+Quantum: 8	Process: P14
+Quantum: 9	Process: P16
+Quantum: 10	Process: P14
+Quantum: 11	Process: P16
+Quantum: 12	Process: P14
+Quantum: 13	Process: P16
+Quantum: 14	Process: P22
+Quantum: 15	Process: P16
+Quantum: 16	Process: P28
+Quantum: 17	Process: P43
+Quantum: 18	Process: P16
+Quantum: 19	Process: P28
+Quantum: 20	Process: P24
+Quantum: 21	Process: P16
+Quantum: 22	Process: P28
+Quantum: 23	Process: P13
+Quantum: 24	Process: P24
+Quantum: 25	Process: P16
+Quantum: 26	Process: P28
+Quantum: 27	Process: P37
+Quantum: 28	Process: P13
+Quantum: 29	Process: P30
+Quantum: 30	Process: P24
+Quantum: 31	Process: P28
+Quantum: 32	Process: P37
+Quantum: 33	Process: P13
+Quantum: 34	Process: P30
+Quantum: 35	Process: P18
+Quantum: 36	Process: P6
+Quantum: 37	Process: P0
+Quantum: 38	Process: P29
+Quantum: 39	Process: P41
+Quantum: 40	Process: P37
+Quantum: 41	Process: P13
+Quantum: 42	Process: P30
+Quantum: 43	Process: P18
+Quantum: 44	Process: P6
+Quantum: 45	Process: P9
+Quantum: 46	Process: P20
+Quantum: 47	Process: P42
+Quantum: 48	Process: P29
+Quantum: 49	Process: P37
+Quantum: 50	Process: P13
+Quantum: 51	Process: P30
+Quantum: 52	Process: P18
+Quantum: 53	Process: P6
+Quantum: 54	Process: P27
+Quantum: 55	Process: P20
+Quantum: 56	Process: P40
+Quantum: 57	Process: P29
+Quantum: 58	Process: P37
+Quantum: 59	Process: P17
+Quantum: 60	Process: P23
+Quantum: 61	Process: P13
+Quantum: 62	Process: P30
+Quantum: 63	Process: P25
+Quantum: 64	Process: P18
+Quantum: 65	Process: P6
+Quantum: 66	Process: P27
+Quantum: 67	Process: P20
+Quantum: 68	Process: P35
+Quantum: 69	Process: P40
+Quantum: 70	Process: P29
+Quantum: 71	Process: P32
+Quantum: 72	Process: P37
+Quantum: 73	Process: P5
+Quantum: 74	Process: P15
+Quantum: 75	Process: P38
+Quantum: 76	Process: P30
+Quantum: 77	Process: P18
+Quantum: 78	Process: P20
+Quantum: 79	Process: P35
+Quantum: 80	Process: P1
+Quantum: 81	Process: P40
+Quantum: 82	Process: P29
+Quantum: 83	Process: P37
+Quantum: 84	Process: P5
+Quantum: 85	Process: P15
+Quantum: 86	Process: P38
+Quantum: 87	Process: P31
+Quantum: 88	Process: P30
+Quantum: 89	Process: P2
+Quantum: 90	Process: P18
+Quantum: 91	Process: P20
+Quantum: 92	Process: P35
+Quantum: 93	Process: P1
+Quantum: 94	Process: P44
+Quantum: 95	Process: P40
+Quantum: 96	Process: P29
+Quantum: 97	Process: P37
+Quantum: 98	Process: P8
+Quantum: 99	Process: P5
+Quantum: 100	Process: P15
+Quantum: 101	Process: P38
+Quantum: 102	Process: P30
+Quantum: 103	Process: P18
+Quantum: 104	Process: P20
+Quantum: 105	Process: P35
+Quantum: 106	Process: P1
+Quantum: 107	Process: P40
+Quantum: 108	Process: P37
+Quantum: 109	Process: P5
+Quantum: 110	Process: P15
+Quantum: 111	Process: P38
+Quantum: 112	Process: P30
+Quantum: 113	Process: P20
+Quantum: 114	Process: P35
+Quantum: 115	Process: P1
+Quantum: 116	Process: P40
+Quantum: 117	Process: P15
+Quantum: 118	Process: P38
+Quantum: 119	Process: P35
+Quantum: 120	Process: P1
+Quantum: 121	Process: P40
+Quantum: 122	Process: P15
+Quantum: 123	Process: P38
+Quantum: 124	Process: P1
+Quantum: 125	Process: P15
+Quantum: 126	Process: P1
+Quantum: 127	Process: P15
+----------Printing Statistics----------
+Avg Response Time: 6.38	Avg TAT: 30.47	Avg Wait Time: 26.79
+Number of Processes: 34	Throughput: 0.27
+----------Round Robin Finished----------
+----------Finish Run #5----------
