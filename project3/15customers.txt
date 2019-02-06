@@ -1,0 +1,1561 @@
+seats[0][0]:  --  1 0
+seats[0][1]:  --  2 0
+seats[0][2]:  --  3 0
+seats[0][3]:  --  4 0
+seats[0][4]:  --  5 0
+seats[0][5]:  --  6 0
+seats[0][6]:  --  7 0
+seats[0][7]:  --  8 0
+seats[0][8]:  --  9 0
+seats[0][9]:  --  10 0
+seats[1][0]:  --  11 0
+seats[1][1]:  --  12 0
+seats[1][2]:  --  13 0
+seats[1][3]:  --  14 0
+seats[1][4]:  --  15 0
+seats[1][5]:  --  16 0
+seats[1][6]:  --  17 0
+seats[1][7]:  --  18 0
+seats[1][8]:  --  19 0
+seats[1][9]:  --  20 0
+seats[2][0]:  --  21 0
+seats[2][1]:  --  22 0
+seats[2][2]:  --  23 0
+seats[2][3]:  --  24 0
+seats[2][4]:  --  25 0
+seats[2][5]:  --  26 0
+seats[2][6]:  --  27 0
+seats[2][7]:  --  28 0
+seats[2][8]:  --  29 0
+seats[2][9]:  --  30 0
+seats[3][0]:  --  31 0
+seats[3][1]:  --  32 0
+seats[3][2]:  --  33 0
+seats[3][3]:  --  34 0
+seats[3][4]:  --  35 0
+seats[3][5]:  --  36 0
+seats[3][6]:  --  37 0
+seats[3][7]:  --  38 0
+seats[3][8]:  --  39 0
+seats[3][9]:  --  40 0
+seats[4][0]:  --  41 0
+seats[4][1]:  --  42 0
+seats[4][2]:  --  43 0
+seats[4][3]:  --  44 0
+seats[4][4]:  --  45 0
+seats[4][5]:  --  46 0
+seats[4][6]:  --  47 0
+seats[4][7]:  --  48 0
+seats[4][8]:  --  49 0
+seats[4][9]:  --  50 0
+seats[5][0]:  --  51 0
+seats[5][1]:  --  52 0
+seats[5][2]:  --  53 0
+seats[5][3]:  --  54 0
+seats[5][4]:  --  55 0
+seats[5][5]:  --  56 0
+seats[5][6]:  --  57 0
+seats[5][7]:  --  58 0
+seats[5][8]:  --  59 0
+seats[5][9]:  --  60 0
+seats[6][0]:  --  61 0
+seats[6][1]:  --  62 0
+seats[6][2]:  --  63 0
+seats[6][3]:  --  64 0
+seats[6][4]:  --  65 0
+seats[6][5]:  --  66 0
+seats[6][6]:  --  67 0
+seats[6][7]:  --  68 0
+seats[6][8]:  --  69 0
+seats[6][9]:  --  70 0
+seats[7][0]:  --  71 0
+seats[7][1]:  --  72 0
+seats[7][2]:  --  73 0
+seats[7][3]:  --  74 0
+seats[7][4]:  --  75 0
+seats[7][5]:  --  76 0
+seats[7][6]:  --  77 0
+seats[7][7]:  --  78 0
+seats[7][8]:  --  79 0
+seats[7][9]:  --  80 0
+seats[8][0]:  --  81 0
+seats[8][1]:  --  82 0
+seats[8][2]:  --  83 0
+seats[8][3]:  --  84 0
+seats[8][4]:  --  85 0
+seats[8][5]:  --  86 0
+seats[8][6]:  --  87 0
+seats[8][7]:  --  88 0
+seats[8][8]:  --  89 0
+seats[8][9]:  --  90 0
+seats[9][0]:  --  91 0
+seats[9][1]:  --  92 0
+seats[9][2]:  --  93 0
+seats[9][3]:  --  94 0
+seats[9][4]:  --  95 0
+seats[9][5]:  --  96 0
+seats[9][6]:  --  97 0
+seats[9][7]:  --  98 0
+seats[9][8]:  --  99 0
+seats[9][9]:  --  100 0
+ =============== Seating Table =============== 
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+
+Number of customers per seller: 15
+
+A:5A:13A:50A:6A:45A:20A:32A:16A:56A:48A:25A:18A:27A:23A:39
+*****************************************
+Queue name:H ID:1
+*****************************************
+Cust id:0 
+arrival:5
+Cust id:1 
+arrival:6
+Cust id:2 
+arrival:13
+Cust id:3 
+arrival:16
+Cust id:4 
+arrival:18
+Cust id:5 
+arrival:20
+Cust id:6 
+arrival:23
+Cust id:7 
+arrival:25
+Cust id:8 
+arrival:27
+Cust id:9 
+arrival:32
+Cust id:10 
+arrival:39
+Cust id:11 
+arrival:45
+Cust id:12 
+arrival:48
+Cust id:13 
+arrival:50
+Cust id:14 
+arrival:56
+A:13A:2A:38A:56A:49A:24A:20A:10A:57A:41A:40A:17A:46A:3A:22
+*****************************************
+Queue name:M ID:1
+*****************************************
+Cust id:0 
+arrival:2
+Cust id:1 
+arrival:3
+Cust id:2 
+arrival:10
+Cust id:3 
+arrival:13
+Cust id:4 
+arrival:17
+Cust id:5 
+arrival:20
+Cust id:6 
+arrival:22
+Cust id:7 
+arrival:24
+Cust id:8 
+arrival:38
+Cust id:9 
+arrival:40
+Cust id:10 
+arrival:41
+Cust id:11 
+arrival:46
+Cust id:12 
+arrival:49
+Cust id:13 
+arrival:56
+Cust id:14 
+arrival:57
+A:35A:5A:43A:59A:17A:0A:21A:37A:15A:34A:57A:40A:9A:58A:9
+*****************************************
+Queue name:M ID:2
+*****************************************
+Cust id:0 
+arrival:0
+Cust id:1 
+arrival:5
+Cust id:2 
+arrival:9
+Cust id:3 
+arrival:9
+Cust id:4 
+arrival:15
+Cust id:5 
+arrival:17
+Cust id:6 
+arrival:21
+Cust id:7 
+arrival:34
+Cust id:8 
+arrival:35
+Cust id:9 
+arrival:37
+Cust id:10 
+arrival:40
+Cust id:11 
+arrival:43
+Cust id:12 
+arrival:57
+Cust id:13 
+arrival:58
+Cust id:14 
+arrival:59
+A:21A:17A:17A:40A:44A:36A:49A:3A:58A:32A:47A:48A:48A:39A:49
+*****************************************
+Queue name:M ID:3
+*****************************************
+Cust id:0 
+arrival:3
+Cust id:1 
+arrival:17
+Cust id:2 
+arrival:17
+Cust id:3 
+arrival:21
+Cust id:4 
+arrival:32
+Cust id:5 
+arrival:36
+Cust id:6 
+arrival:39
+Cust id:7 
+arrival:40
+Cust id:8 
+arrival:44
+Cust id:9 
+arrival:47
+Cust id:10 
+arrival:48
+Cust id:11 
+arrival:48
+Cust id:12 
+arrival:49
+Cust id:13 
+arrival:49
+Cust id:14 
+arrival:58
+A:47A:33A:48A:39A:24A:39A:44A:18A:24A:45A:53A:34A:5A:16A:21
+*****************************************
+Queue name:L ID:1
+*****************************************
+Cust id:0 
+arrival:5
+Cust id:1 
+arrival:16
+Cust id:2 
+arrival:18
+Cust id:3 
+arrival:21
+Cust id:4 
+arrival:24
+Cust id:5 
+arrival:24
+Cust id:6 
+arrival:33
+Cust id:7 
+arrival:34
+Cust id:8 
+arrival:39
+Cust id:9 
+arrival:39
+Cust id:10 
+arrival:44
+Cust id:11 
+arrival:45
+Cust id:12 
+arrival:47
+Cust id:13 
+arrival:48
+Cust id:14 
+arrival:53
+A:51A:15A:4A:33A:26A:32A:1A:22A:19A:21A:47A:57A:56A:45A:0
+*****************************************
+Queue name:L ID:2
+*****************************************
+Cust id:0 
+arrival:0
+Cust id:1 
+arrival:1
+Cust id:2 
+arrival:4
+Cust id:3 
+arrival:15
+Cust id:4 
+arrival:19
+Cust id:5 
+arrival:21
+Cust id:6 
+arrival:22
+Cust id:7 
+arrival:26
+Cust id:8 
+arrival:32
+Cust id:9 
+arrival:33
+Cust id:10 
+arrival:45
+Cust id:11 
+arrival:47
+Cust id:12 
+arrival:51
+Cust id:13 
+arrival:56
+Cust id:14 
+arrival:57
+A:46A:38A:41A:10A:27A:1A:52A:0A:16A:41A:21A:27A:12A:9A:56
+*****************************************
+Queue name:L ID:3
+*****************************************
+Cust id:0 
+arrival:0
+Cust id:1 
+arrival:1
+Cust id:2 
+arrival:9
+Cust id:3 
+arrival:10
+Cust id:4 
+arrival:12
+Cust id:5 
+arrival:16
+Cust id:6 
+arrival:21
+Cust id:7 
+arrival:27
+Cust id:8 
+arrival:27
+Cust id:9 
+arrival:38
+Cust id:10 
+arrival:41
+Cust id:11 
+arrival:41
+Cust id:12 
+arrival:46
+Cust id:13 
+arrival:52
+Cust id:14 
+arrival:56
+A:28A:4A:4A:26A:0A:14A:52A:25A:17A:34A:15A:11A:26A:41A:16
+*****************************************
+Queue name:L ID:4
+*****************************************
+Cust id:0 
+arrival:0
+Cust id:1 
+arrival:4
+Cust id:2 
+arrival:4
+Cust id:3 
+arrival:11
+Cust id:4 
+arrival:14
+Cust id:5 
+arrival:15
+Cust id:6 
+arrival:16
+Cust id:7 
+arrival:17
+Cust id:8 
+arrival:25
+Cust id:9 
+arrival:26
+Cust id:10 
+arrival:26
+Cust id:11 
+arrival:28
+Cust id:12 
+arrival:34
+Cust id:13 
+arrival:41
+Cust id:14 
+arrival:52
+A:35A:9A:23A:27A:28A:41A:51A:59A:34A:28A:51A:34A:54A:51A:3
+*****************************************
+Queue name:L ID:5
+*****************************************
+Cust id:0 
+arrival:3
+Cust id:1 
+arrival:9
+Cust id:2 
+arrival:23
+Cust id:3 
+arrival:27
+Cust id:4 
+arrival:28
+Cust id:5 
+arrival:28
+Cust id:6 
+arrival:34
+Cust id:7 
+arrival:34
+Cust id:8 
+arrival:35
+Cust id:9 
+arrival:41
+Cust id:10 
+arrival:51
+Cust id:11 
+arrival:51
+Cust id:12 
+arrival:51
+Cust id:13 
+arrival:54
+Cust id:14 
+arrival:59
+A:28A:4A:21A:14A:51A:43A:13A:11A:40A:40A:50A:10A:36A:55A:12
+*****************************************
+Queue name:L ID:6
+*****************************************
+Cust id:0 
+arrival:4
+Cust id:1 
+arrival:10
+Cust id:2 
+arrival:11
+Cust id:3 
+arrival:12
+Cust id:4 
+arrival:13
+Cust id:5 
+arrival:14
+Cust id:6 
+arrival:21
+Cust id:7 
+arrival:28
+Cust id:8 
+arrival:36
+Cust id:9 
+arrival:40
+Cust id:10 
+arrival:40
+Cust id:11 
+arrival:43
+Cust id:12 
+arrival:50
+Cust id:13 
+arrival:51
+Cust id:14 
+arrival:55
+
+Creating one high price ticket seller
+Creating three medium price ticket sellers
+Creating six low price ticket sellers
+
+All seller threads created
+
+Current time: 0:00
+
+0:00 | Customer 1 has arrived in seller queue L3.
+0:00 | Customer 1 of seller queue L3 has purchased a seat and is being seated.
+0:00 | Customer 1 has arrived in seller queue L4.
+0:00 | Customer 1 of seller queue L4 has purchased a seat and is being seated.
+0:00 | Customer 1 has arrived in seller queue L2.
+0:00 | Customer 1 of seller queue L2 has purchased a seat and is being seated.
+0:00 | Customer 1 has arrived in seller queue M2.
+0:00 | Customer 1 of seller queue M2 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201   --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L301  L401  L201   --    --    --    --    --    --    --  
+
+
+Current time: 0:01
+
+0:01 | Customer 2 has arrived in seller queue L3.
+0:01 | Customer 2 has arrived in seller queue L2.
+ =============== Seating Table =============== 
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201   --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L301  L401  L201   --    --    --    --    --    --    --  
+
+
+Current time: 0:02
+
+0:02 | Customer 1 has arrived in seller queue M1.
+0:02 | Customer 1 of seller queue M1 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101   --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L301  L401  L201   --    --    --    --    --    --    --  
+
+
+Current time: 0:03
+
+0:03 | Customer 1 has arrived in seller queue L5.
+0:03 | Customer 1 of seller queue L5 has purchased a seat and is being seated.
+0:03 | Customer 1 has arrived in seller queue M3.
+0:03 | Customer 1 of seller queue M3 has purchased a seat and is being seated.
+0:03 | Customer 2 has arrived in seller queue M1.
+ =============== Seating Table =============== 
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301   --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L301  L401  L201  L501   --    --    --    --    --    --  
+
+
+Current time: 0:04
+
+0:04 | Customer 2 has arrived in seller queue L4.
+0:04 | Customer 1 has arrived in seller queue L6.
+0:04 | Customer 1 of seller queue L6 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301   --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L301  L401  L201  L501  L601   --    --    --    --    --  
+
+
+Current time: 0:05
+
+0:05 | Customer 2 of seller queue L2 has purchased a seat and is being seated.
+0:05 | Customer 1 has arrived in seller queue L1.
+0:05 | Customer 1 of seller queue L1 has purchased a seat and is being seated.
+0:05 | Customer 2 has arrived in seller queue M2.
+0:05 | Customer 2 of seller queue M2 has purchased a seat and is being seated.
+0:05 | Customer 1 has arrived in seller queue H1.
+0:05 | Customer 1 of seller queue H1 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101   --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202   --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L301  L401  L201  L501  L601  L202  L101   --    --    --  
+
+
+Current time: 0:06
+
+0:06 | Customer 2 of seller queue L4 has purchased a seat and is being seated.
+0:06 | Customer 2 has arrived in seller queue H1.
+ =============== Seating Table =============== 
+ H101   --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202   --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L301  L401  L201  L501  L601  L202  L101  L402   --    --  
+
+
+Current time: 0:07
+
+0:07 | Customer 2 of seller queue M1 has purchased a seat and is being seated.
+0:07 | Customer 2 of seller queue H1 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102   --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102   --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L301  L401  L201  L501  L601  L202  L101  L402   --    --  
+
+
+Current time: 0:08
+
+0:08 | Customer 2 of seller queue L3 has purchased a seat and is being seated.
+0:08 | Customer 2 of seller queue M3 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102   --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302   --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L301  L401  L201  L501  L601  L202  L101  L402  L302   --  
+
+
+Current time: 0:09
+
+0:09 | Customer 3 has arrived in seller queue L3.
+0:09 | Customer 2 has arrived in seller queue L5.
+0:09 | Customer 2 of seller queue L5 has purchased a seat and is being seated.
+0:09 | Customer 3 has arrived in seller queue M2.
+0:09 | Customer 3 of seller queue H1 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103   --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302   --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:10
+
+0:10 | Customer 3 of seller queue L2 has purchased a seat and is being seated.
+0:10 | Customer 2 has arrived in seller queue L6.
+0:10 | Customer 2 of seller queue L6 has purchased a seat and is being seated.
+0:10 | Customer 2 of seller queue L1 has purchased a seat and is being seated.
+0:10 | Customer 3 of seller queue M2 has purchased a seat and is being seated.
+0:10 | Customer 3 has arrived in seller queue M1.
+ =============== Seating Table =============== 
+ H101  H102  H103   --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203   --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L203  L602  L102   --    --    --    --    --    --    --  
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:11
+
+0:11 | Customer 3 has arrived in seller queue L6.
+0:11 | Customer 4 of seller queue H1 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104   --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203   --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L203  L602  L102   --    --    --    --    --    --    --  
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:12
+
+0:12 | Customer 3 of seller queue L4 has purchased a seat and is being seated.
+0:12 | Customer 3 of seller queue M1 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104   --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103   --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L203  L602  L102  L403   --    --    --    --    --    --  
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:13
+
+0:13 | Customer 3 of seller queue M3 has purchased a seat and is being seated.
+0:13 | Customer 4 has arrived in seller queue M1.
+0:13 | Customer 5 of seller queue H1 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105   --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303   --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L203  L602  L102  L403   --    --    --    --    --    --  
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:14
+
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105   --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303   --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L203  L602  L102  L403   --    --    --    --    --    --  
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:15
+
+0:15 | Customer 4 has arrived in seller queue L2.
+0:15 | Customer 4 of seller queue L2 has purchased a seat and is being seated.
+0:15 | Customer 3 of seller queue L5 has purchased a seat and is being seated.
+0:15 | Customer 3 of seller queue L1 has purchased a seat and is being seated.
+0:15 | Customer 4 of seller queue M2 has purchased a seat and is being seated.
+0:15 | Customer 6 of seller queue H1 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106   --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L203  L602  L102  L403  L204  L503  L103   --    --    --  
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:16
+
+0:16 | Customer 3 of seller queue L3 has purchased a seat and is being seated.
+0:16 | Customer 3 of seller queue L6 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106   --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L203  L602  L102  L403  L204  L503  L103  L303  L603   --  
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:17
+
+0:17 | Customer 4 of seller queue M1 has purchased a seat and is being seated.
+0:17 | Customer 7 of seller queue H1 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107   --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104   --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L203  L602  L102  L403  L204  L503  L103  L303  L603   --  
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:18
+
+0:18 | Customer 4 of seller queue L4 has purchased a seat and is being seated.
+0:18 | Customer 4 of seller queue M3 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107   --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304   --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:19
+
+0:19 | Customer 5 has arrived in seller queue L2.
+0:19 | Customer 8 of seller queue H1 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108   --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304   --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:20
+
+0:20 | Customer 5 of seller queue L2 has purchased a seat and is being seated.
+0:20 | Customer 4 of seller queue L1 has purchased a seat and is being seated.
+0:20 | Customer 5 of seller queue M2 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108   --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205   --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L205  L104   --    --    --    --    --    --    --    --  
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:21
+
+0:21 | Customer 4 of seller queue L5 has purchased a seat and is being seated.
+0:21 | Customer 6 has arrived in seller queue L2.
+0:21 | Customer 9 of seller queue H1 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109   --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205   --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L205  L104  L504   --    --    --    --    --    --    --  
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:22
+
+0:22 | Customer 4 of seller queue L6 has purchased a seat and is being seated.
+0:22 | Customer 5 of seller queue M1 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109   --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105   --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L205  L104  L504  L604   --    --    --    --    --    --  
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:23
+
+0:23 | Customer 5 of seller queue M3 has purchased a seat and is being seated.
+0:23 | Customer 10 of seller queue H1 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305   --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L205  L104  L504  L604   --    --    --    --    --    --  
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:24
+
+0:24 | Customer 5 of seller queue L4 has purchased a seat and is being seated.
+0:24 | Customer 4 of seller queue L3 has purchased a seat and is being seated.
+0:24 | Customer 5 has arrived in seller queue L1.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305   --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L205  L104  L504  L604  L405  L304   --    --    --    --  
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:25
+
+0:25 | Customer 6 of seller queue L2 has purchased a seat and is being seated.
+0:25 | Customer 5 of seller queue L1 has purchased a seat and is being seated.
+0:25 | Customer 6 of seller queue M2 has purchased a seat and is being seated.
+0:25 | Customer 11 of seller queue H1 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111   --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206   --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L205  L104  L504  L604  L405  L304  L206  L105   --    --  
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:26
+
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111   --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206   --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L205  L104  L504  L604  L405  L304  L206  L105   --    --  
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:27
+
+0:27 | Customer 5 of seller queue L5 has purchased a seat and is being seated.
+0:27 | Customer 6 of seller queue M1 has purchased a seat and is being seated.
+0:27 | Customer 12 of seller queue H1 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112   --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106   --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L205  L104  L504  L604  L405  L304  L206  L105  L505   --  
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:28
+
+0:28 | Customer 5 of seller queue L6 has purchased a seat and is being seated.
+0:28 | Customer 6 of seller queue M3 has purchased a seat and is being seated.
+0:28 | Customer 6 has arrived in seller queue L5.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112   --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306   --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:29
+
+0:29 | Customer 13 of seller queue H1 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113   --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306   --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:30
+
+0:30 | Customer 6 of seller queue L1 has purchased a seat and is being seated.
+0:30 | Customer 7 of seller queue M2 has purchased a seat and is being seated.
+0:30 | Customer 6 of seller queue L4 has purchased a seat and is being seated.
+0:30 | Customer 7 of seller queue L2 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113   --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207   --  
+ L106  L406  L207   --    --    --    --    --    --    --  
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:31
+
+0:31 | Customer 14 of seller queue H1 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114   --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207   --  
+ L106  L406  L207   --    --    --    --    --    --    --  
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:32
+
+0:32 | Customer 5 of seller queue L3 has purchased a seat and is being seated.
+0:32 | Customer 7 of seller queue M1 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114   --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305   --    --    --    --    --    --  
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:33
+
+0:33 | Customer 6 of seller queue L5 has purchased a seat and is being seated.
+0:33 | Customer 7 has arrived in seller queue L1.
+0:33 | Customer 7 of seller queue M3 has purchased a seat and is being seated.
+0:33 | Customer 15 of seller queue H1 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115   --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M307   --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506   --    --    --    --    --  
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:34
+
+0:34 | Customer 7 has arrived in seller queue L5.
+0:34 | Customer 6 of seller queue L6 has purchased a seat and is being seated.
+0:34 | Customer 8 has arrived in seller queue M2.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115   --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M307   --    --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606   --    --    --    --  
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:35
+
+0:35 | Customer 8 of seller queue L2 has purchased a seat and is being seated.
+0:35 | Customer 7 of seller queue L1 has purchased a seat and is being seated.
+0:35 | Customer 8 of seller queue M2 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115   --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M307  M208   --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107   --    --  
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:36
+
+0:36 | Customer 7 of seller queue L4 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115   --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M307  M208   --    --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107  L407   --  
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:37
+
+0:37 | Customer 8 of seller queue M1 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115   --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M307  M208  M108   --    --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107  L407   --  
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:38
+
+0:38 | Customer 8 of seller queue M3 has purchased a seat and is being seated.
+0:38 | Customer 9 has arrived in seller queue M1.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115   --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M307  M208  M108  M308   --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107  L407   --  
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:39
+
+0:39 | Customer 7 of seller queue L5 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115   --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M307  M208  M108  M308   --    --    --    --    --    --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107  L407  L507 
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:40
+
+0:40 | Customer 9 of seller queue M2 has purchased a seat and is being seated.
+0:40 | Customer 6 of seller queue L3 has purchased a seat and is being seated.
+0:40 | Customer 9 of seller queue L2 has purchased a seat and is being seated.
+0:40 | Customer 7 of seller queue L6 has purchased a seat and is being seated.
+0:40 | Customer 8 of seller queue L1 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115   --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M307  M208  M108  M308  M209  L306  L209  L607  L108   --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107  L407  L507 
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:41
+
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115   --    --    --    --    --  
+  --    --    --    --    --    --    --    --    --    --  
+ M307  M208  M108  M308  M209  L306  L209  L607  L108   --  
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107  L407  L507 
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:42
+
+0:42 | Customer 8 of seller queue L4 has purchased a seat and is being seated.
+0:42 | Customer 9 of seller queue M1 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115   --    --    --    --    --  
+ M109   --    --    --    --    --    --    --    --    --  
+ M307  M208  M108  M308  M209  L306  L209  L607  L108  L408 
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107  L407  L507 
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:43
+
+0:43 | Customer 9 of seller queue M3 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115   --    --    --    --    --  
+ M109  M309   --    --    --    --    --    --    --    --  
+ M307  M208  M108  M308  M209  L306  L209  L607  L108  L408 
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107  L407  L507 
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:44
+
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115   --    --    --    --    --  
+ M109  M309   --    --    --    --    --    --    --    --  
+ M307  M208  M108  M308  M209  L306  L209  L607  L108  L408 
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107  L407  L507 
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:45
+
+0:45 | Customer 10 of seller queue L2 has purchased a seat and is being seated.
+0:45 | Customer 9 of seller queue L1 has purchased a seat and is being seated.
+0:45 | Customer 10 of seller queue M2 has purchased a seat and is being seated.
+0:45 | Customer 8 of seller queue L5 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115   --    --    --    --    --  
+ M109  M309  L210  L109  M210  L508   --    --    --    --  
+ M307  M208  M108  M308  M209  L306  L209  L607  L108  L408 
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107  L407  L507 
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:46
+
+0:46 | Customer 8 of seller queue L6 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115   --    --    --    --    --  
+ M109  M309  L210  L109  M210  L508  L608   --    --    --  
+ M307  M208  M108  M308  M209  L306  L209  L607  L108  L408 
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107  L407  L507 
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:47
+
+0:47 | Customer 10 of seller queue M1 has purchased a seat and is being seated.
+0:47 | Customer 10 has arrived in seller queue M3.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115   --    --    --    --    --  
+ M109  M309  L210  L109  M210  L508  L608  M110   --    --  
+ M307  M208  M108  M308  M209  L306  L209  L607  L108  L408 
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107  L407  L507 
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:48
+
+0:48 | Customer 10 of seller queue M3 has purchased a seat and is being seated.
+0:48 | Customer 9 of seller queue L4 has purchased a seat and is being seated.
+0:48 | Customer 7 of seller queue L3 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115  L307   --    --    --    --  
+ M109  M309  L210  L109  M210  L508  L608  M110  M310  L409 
+ M307  M208  M108  M308  M209  L306  L209  L607  L108  L408 
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107  L407  L507 
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:49
+
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115  L307   --    --    --    --  
+ M109  M309  L210  L109  M210  L508  L608  M110  M310  L409 
+ M307  M208  M108  M308  M209  L306  L209  L607  L108  L408 
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107  L407  L507 
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:50
+
+0:50 | Customer 10 of seller queue L1 has purchased a seat and is being seated.
+0:50 | Customer 11 of seller queue M2 has purchased a seat and is being seated.
+0:50 | Customer 11 of seller queue L2 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115  L307  L110  M211  L211   --  
+ M109  M309  L210  L109  M210  L508  L608  M110  M310  L409 
+ M307  M208  M108  M308  M209  L306  L209  L607  L108  L408 
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107  L407  L507 
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:51
+
+0:51 | Customer 9 of seller queue L5 has purchased a seat and is being seated.
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115  L307  L110  M211  L211  L509 
+ M109  M309  L210  L109  M210  L508  L608  M110  M310  L409 
+ M307  M208  M108  M308  M209  L306  L209  L607  L108  L408 
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107  L407  L507 
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:52
+
+0:52 | Customer 11 of seller queue M1 has been turned away. (Concert full)
+0:52 | Customer 9 of seller queue L6 has been turned away. (Concert full)
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115  L307  L110  M211  L211  L509 
+ M109  M309  L210  L109  M210  L508  L608  M110  M310  L409 
+ M307  M208  M108  M308  M209  L306  L209  L607  L108  L408 
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107  L407  L507 
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:53
+
+0:53 | Customer 11 of seller queue M3 has been turned away. (Concert full)
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115  L307  L110  M211  L211  L509 
+ M109  M309  L210  L109  M210  L508  L608  M110  M310  L409 
+ M307  M208  M108  M308  M209  L306  L209  L607  L108  L408 
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107  L407  L507 
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:54
+
+0:54 | Customer 10 of seller queue L4 has been turned away. (Concert full)
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115  L307  L110  M211  L211  L509 
+ M109  M309  L210  L109  M210  L508  L608  M110  M310  L409 
+ M307  M208  M108  M308  M209  L306  L209  L607  L108  L408 
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107  L407  L507 
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:55
+
+0:55 | Customer 12 of seller queue L2 has been turned away. (Concert full)
+0:55 | Customer 11 of seller queue L1 has been turned away. (Concert full)
+0:55 | Customer 12 of seller queue M2 has been turned away. (Concert full)
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115  L307  L110  M211  L211  L509 
+ M109  M309  L210  L109  M210  L508  L608  M110  M310  L409 
+ M307  M208  M108  M308  M209  L306  L209  L607  L108  L408 
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107  L407  L507 
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:56
+
+0:56 | Customer 8 of seller queue L3 has been turned away. (Concert full)
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115  L307  L110  M211  L211  L509 
+ M109  M309  L210  L109  M210  L508  L608  M110  M310  L409 
+ M307  M208  M108  M308  M209  L306  L209  L607  L108  L408 
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107  L407  L507 
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:57
+
+0:57 | Customer 12 of seller queue M1 has been turned away. (Concert full)
+0:57 | Customer 13 has arrived in seller queue M2.
+0:57 | Customer 10 of seller queue L5 has been turned away. (Concert full)
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115  L307  L110  M211  L211  L509 
+ M109  M309  L210  L109  M210  L508  L608  M110  M310  L409 
+ M307  M208  M108  M308  M209  L306  L209  L607  L108  L408 
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107  L407  L507 
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:58
+
+0:58 | Customer 10 of seller queue L6 has been turned away. (Concert full)
+0:58 | Customer 12 of seller queue M3 has been turned away. (Concert full)
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115  L307  L110  M211  L211  L509 
+ M109  M309  L210  L109  M210  L508  L608  M110  M310  L409 
+ M307  M208  M108  M308  M209  L306  L209  L607  L108  L408 
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107  L407  L507 
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+
+Current time: 0:59
+
+0:59 | Customer 13 of seller queue L2 has been turned away. (Time >= 59)
+0:59 | Customer 14 of seller queue L2 has been turned away. (Time >= 59)
+0:59 | Customer 15 of seller queue L2 has been turned away. (Time >= 59)
+0:59 | Customer 11 of seller queue L6 has been turned away. (Time >= 59)
+0:59 | Customer 12 of seller queue L6 has been turned away. (Time >= 59)
+0:59 | Customer 13 of seller queue L6 has been turned away. (Time >= 59)
+0:59 | Customer 14 of seller queue L6 has been turned away. (Time >= 59)
+0:59 | Customer 15 of seller queue L6 has been turned away. (Time >= 59)
+0:59 | Customer 12 of seller queue L1 has been turned away. (Time >= 59)
+0:59 | Customer 13 of seller queue L1 has been turned away. (Time >= 59)
+0:59 | Customer 14 of seller queue L1 has been turned away. (Time >= 59)
+0:59 | Customer 15 of seller queue L1 has been turned away. (Time >= 59)
+0:59 | Customer 13 of seller queue M3 has been turned away. (Time >= 59)
+0:59 | Customer 14 of seller queue M3 has been turned away. (Time >= 59)
+0:59 | Customer 15 of seller queue M3 has been turned away. (Time >= 59)
+0:59 | Customer 13 of seller queue M2 has been turned away. (Time >= 59)
+0:59 | Customer 14 of seller queue M2 has been turned away. (Time >= 59)
+0:59 | Customer 15 of seller queue M2 has been turned away. (Time >= 59)
+0:59 | Customer 11 of seller queue L5 has been turned away. (Time >= 59)
+0:59 | Customer 12 of seller queue L5 has been turned away. (Time >= 59)
+0:59 | Customer 13 of seller queue L5 has been turned away. (Time >= 59)
+0:59 | Customer 14 of seller queue L5 has been turned away. (Time >= 59)
+0:59 | Customer 15 of seller queue L5 has been turned away. (Time >= 59)
+0:59 | Customer 11 of seller queue L4 has been turned away. (Time >= 59)
+0:59 | Customer 12 of seller queue L4 has been turned away. (Time >= 59)
+0:59 | Customer 13 of seller queue L4 has been turned away. (Time >= 59)
+0:59 | Customer 14 of seller queue L4 has been turned away. (Time >= 59)
+0:59 | Customer 15 of seller queue L4 has been turned away. (Time >= 59)
+0:59 | Customer 9 of seller queue L3 has been turned away. (Time >= 59)
+0:59 | Customer 10 of seller queue L3 has been turned away. (Time >= 59)
+0:59 | Customer 11 of seller queue L3 has been turned away. (Time >= 59)
+0:59 | Customer 12 of seller queue L3 has been turned away. (Time >= 59)
+0:59 | Customer 13 of seller queue L3 has been turned away. (Time >= 59)
+0:59 | Customer 14 of seller queue L3 has been turned away. (Time >= 59)
+0:59 | Customer 15 of seller queue L3 has been turned away. (Time >= 59)
+0:59 | Customer 13 of seller queue M1 has been turned away. (Time >= 59)
+0:59 | Customer 14 of seller queue M1 has been turned away. (Time >= 59)
+0:59 | Customer 15 of seller queue M1 has been turned away. (Time >= 59)
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115  L307  L110  M211  L211  L509 
+ M109  M309  L210  L109  M210  L508  L608  M110  M310  L409 
+ M307  M208  M108  M308  M209  L306  L209  L607  L108  L408 
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107  L407  L507 
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+Final table:
+
+ =============== Seating Table =============== 
+ H101  H102  H103  H104  H105  H106  H107  H108  H109  H110 
+ H111  H112  H113  H114  H115  L307  L110  M211  L211  L509 
+ M109  M309  L210  L109  M210  L508  L608  M110  M310  L409 
+ M307  M208  M108  M308  M209  L306  L209  L607  L108  L408 
+ M201  M101  M301  M202  M102  M302  M203  M103  M303  M204 
+ M104  M304  M205  M105  M305  M206  M106  M306  M207  M107 
+ L106  L406  L207  L305  L506  L606  L208  L107  L407  L507 
+ L205  L104  L504  L604  L405  L304  L206  L105  L505  L605 
+ L203  L602  L102  L403  L204  L503  L103  L303  L603  L404 
+ L301  L401  L201  L501  L601  L202  L101  L402  L302  L502 
+
+The high cost seller sold seats to 15 customers and turned 0 away
+The three medium cost sellers sold seats to 31 customers and turned 14 away
+The six low cost sellers sold seats to 54 customers and turned 36 away
