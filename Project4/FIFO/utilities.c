@@ -331,9 +331,17 @@ int pageReference(int currPage, int size)
       i = size - 1;
     }
   } else if(r < 9){
-    i = rand() % (currPage - 1);
+    if(currPage > 1) {
+      i = rand() % (currPage - 1);
+    } else {
+      i = (rand() % (size - (currPage + 2))) + currPage + 2;
+    }
   } else {
-    i = (rand() % (size - (currPage + 2))) + currPage + 2;
+    if(currPage < (size - 2)) {
+      i = (rand() % (size - (currPage + 2))) + currPage + 2;
+    } else {
+      i = rand() % (currPage - 1);
+    }
   }
 
   return i;
@@ -411,10 +419,10 @@ void FIFO(ProcessNode *p_list)
           iter = iter->next;
         }
 
-        if(pageInMem > -1) {
+        if(pageInMem > -1) {  //Hit
           printf("[0:0%2.1f] Process: P%d, Page Referenced: %d, Page-in-memory: %d\n",
             i, run_proc->proc->procName, ref, pageInMem);
-        } else {
+        } else {  //Miss
           miss++;
           if(free_page == NULL) {
             free_page = free_list->list->next;
@@ -432,6 +440,7 @@ void FIFO(ProcessNode *p_list)
           }
         }
         run_proc->servTime += 0.1;
+        run_proc->currPage = ref;   //update current page
 
         prev = run_proc;
         run_proc = run_proc->next;  //move to next running process
