@@ -44,7 +44,7 @@ public class LRU {
 							runningStateList.get(j).addedFlag = false;
 							//check if the page was added to the list
 							//and if hit, the value is true, else false.					                   
-	                        boolean isHit = checkPageInRAM(runningStateList.get(j).pagesOnDisk.get(0),ramObj,(time - 1) * 10 + i * 10);					
+	                        boolean isHit = checkPageInRAM(runningStateList.get(j).pagesOnDisk.get(0),ramObj,(time - 1) * 10 + i);					
 	                        if (isHit) {
 	                        	outputLRU.add("Process ID " + runningStateList.get(j).processId 
 								+ " requested for page number " + 0 + " it was a hit \n");
@@ -60,7 +60,7 @@ public class LRU {
 	                        //locality of reference:get page number based on the locality of ref algorithm
 	                        int new_page_no = ScheduleHelper.randomNoByLocalityRef(runningStateList.get(j).lastReferencedPageNo, runningStateList.get(j).pageSize);
 							//add the page and check to see if it is hit or miss 
-	                        boolean isHit = checkPageInRAM(runningStateList.get(j).pagesOnDisk.get(new_page_no),ramObj, (time - 1) * 10 + i * 10);
+	                        boolean isHit = checkPageInRAM(runningStateList.get(j).pagesOnDisk.get(new_page_no),ramObj, (time - 1) * 10 + i);
 							//last ref page number would be the new page that is being added to the frame  
 	                        runningStateList.get(j).lastReferencedPageNo = new_page_no;
 	                        if (isHit) {
