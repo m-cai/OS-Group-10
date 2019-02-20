@@ -16,7 +16,7 @@ const char PROCESS_NAMES[] = {'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J',
                               'y', 'z', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9'};
 
 struct process {
-  char procName;
+  int procName;
   int procSize;
   int arrTime;
   int servTime;
@@ -24,7 +24,7 @@ struct process {
 
 struct page {
   int pageNum;
-  char procName;
+  int procName;
   int pageRef;
   struct page *next;
 };
@@ -75,7 +75,7 @@ PageList *createPageList()
   for(int i = 0; i < 100; i++) {
     Page *page = malloc(sizeof(Page));
     page->pageNum = i;
-    page->procName = '.';
+    page->procName = -1;
     page->pageRef = 0;
     page->next = NULL;
 
@@ -170,7 +170,7 @@ ProcessNode *createProcesses()
   int seed = time(NULL);
   srand(seed);
   for(int i = 0; i < 150; i++) {
-    char id = PROCESS_NAMES[i % 62];
+    int id = i;
     int size = assignSize(rand() % 4);
     int arrival_time = rand() % 60;
     int run_time = (rand() % 5) + 1;
@@ -267,10 +267,10 @@ void printQueue(ProcessQueue *pq)
   } else {
     ProcessNode *iter = pq->head;
     while(iter != pq->tail){
-      printf("%c, ", iter->proc->procName);
+      printf("%d, ", iter->proc->procName);
       iter = iter->next;
     }
-    printf("%c", iter->proc->procName);
+    printf("%d", iter->proc->procName);
     printf("\n");
   }
 }
@@ -282,7 +282,7 @@ void printList(ProcessNode *p_list)
     printf("NULL List\n");
   } else {
     while(iter != NULL) {
-      printf("%c, ", iter->proc->procName);
+      printf("%d, ", iter->proc->procName);
       iter = iter->next;
     }
     printf("\n");
@@ -294,7 +294,7 @@ void printProcess(ProcessNode *node)
   if(node == NULL) {
     printf("NULL process\n");
   } else {
-    printf("Process: %c \t", node->proc->procName);
+    printf("Process: P%d \t", node->proc->procName);
     printf("Size: %d \t", node->proc->procSize);
     printf("Arrival Time: %d \t", node->proc->arrTime);
     printf("Run Time: %d \n", node->proc->servTime);
@@ -307,7 +307,7 @@ void printMemoryMap(PageList *page_list)
     printf("Memory-map: ");
     Page *iter = page_list->list;
     for(int i = 0; i < 100; i++) {
-      printf("%c", iter->procName);
+      printf("%d", iter->procName);
       iter = iter->next;
     }
     printf("\n");
@@ -335,7 +335,7 @@ int pageReference(int currPage, int size)
   return i;
 }
 
-Page *setPage0(char procName)
+Page *setPage0(int procName)
 {
   Page *temp = malloc(sizeof(Page));
   temp->pageNum = 0;
@@ -408,21 +408,21 @@ void FIFO(ProcessNode *p_list)
         }
 
         if(pageInMem > -1) {
-          printf("[0:0%2.1f] Process: %c, Page Referenced: %d, Page-in-memory: %d\n",
+          printf("[0:0%2.1f] Process: P%d, Page Referenced: %d, Page-in-memory: %d\n",
             i, run_proc->proc->procName, ref, pageInMem);
         } else {
           miss++;
           if(free_page == NULL) {
             free_page = free_list->list->next;
           }
-          char evicted = free_page->procName;
+          int evicted = free_page->procName;
           free_page->procName = run_proc->proc->procName;
           free_page->pageRef = ref;
           run_proc->pages = setPage(run_proc->pages, ref, free_page->pageNum);
-          printf("[0:0%2.1f] Process: %c, Page Referenced: %d, Page-in-memory: %d, Process Evicted: %c\n",
+          printf("[0:0%2.1f] Process: P%d, Page Referenced: %d, Page-in-memory: %d, Process Evicted: %d\n",
             i, run_proc->proc->procName, ref, free_page->pageNum, evicted);
           free_page = free_page->next;
-          if(evicted == '.')
+          if(evicted == -1)
           {
             free_list->free--;
           }
@@ -434,7 +434,7 @@ void FIFO(ProcessNode *p_list)
 
       } else {  //If service duration is complete
         printf("[0:0%2.1f]", i);
-        printf(" Process: %c, Exit, Size: %d, Service Duration: %d\n",
+        printf(" Process: P%d, Exit, Size: %d, Service Duration: %d\n",
           run_proc->proc->procName, run_proc->proc->procSize, run_proc->proc->servTime);
         printMemoryMap(free_list);
 
@@ -464,7 +464,7 @@ void FIFO(ProcessNode *p_list)
         free_list->list->procName = run_proc->proc->procName;
         enqueue(running_queue, run_proc);
         printf("[0:0%2.1f]", i);
-        printf(" Process: %c, Enter, Size: %d, Service Duration: %d\n",
+        printf(" Process: P%d, Enter, Size: %d, Service Duration: %d\n",
           run_proc->proc->procName, run_proc->proc->procSize, run_proc->proc->servTime);
         printMemoryMap(free_list);
         numProcesses++;
