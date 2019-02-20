@@ -307,7 +307,11 @@ void printMemoryMap(PageList *page_list)
     printf("Memory-map: ");
     Page *iter = page_list->list;
     for(int i = 0; i < 100; i++) {
-      printf("%d", iter->procName);
+      if(iter->procName == -1) {
+        printf(".");
+      } else {
+        printf("P%d", iter->procName);
+      }
       iter = iter->next;
     }
     printf("\n");
