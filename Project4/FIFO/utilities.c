@@ -422,29 +422,10 @@ void FIFO(ProcessNode *p_list)
           printf("[0:0%2.1f] Process: %c, Page Referenced: %d, Page-in-memory: %d, Process Evicted: %c\n",
             i, run_proc->proc->procName, ref, free_page->pageNum, evicted);
           free_page = free_page->next;
-          // if(free_list->free == 0) {
-          //   if(free_page == NULL) {
-          //     free_page = free_list->list->next;
-          //   }
-          //   char evicted = free_page->procName;
-          //   free_page->procName = run_proc->proc->procName;
-          //   free_page->pageRef = ref;
-          //   run_proc->pages = setPage(run_proc->pages, ref, free_page->pageNum);
-          //   printf("[0:0%2.1f] Process: %c, Page Referenced: %d, Page-in-memory: %d, Process Evicted: %c\n",
-          //     i, run_proc->proc->procName, ref, free_page->pageNum, evicted);
-          //   free_page = free_page->next;
-          // } else {
-          //   if(free_page == NULL) {
-          //     free_page = free_list->list->next;
-          //   }
-          //   free_page->procName = run_proc->proc->procName;
-          //   free_page->pageRef = ref;
-          //   setPage(run_proc->pages, ref, free_page->pageNum);
-          //   printf("[0:0%2.1f] Process: %c, Page Referenced: %d, Page-in-memory: %d\n",
-          //     i, run_proc->proc->procName, ref, free_page->pageNum);
-          //   free_page = free_page->next;
-          //   free_list->free--;
-          // }
+          if(evicted == '.')
+          {
+            free_list->free--;
+          }
         }
         run_proc->servTime += 0.1;
 
