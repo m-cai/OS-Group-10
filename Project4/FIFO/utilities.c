@@ -169,8 +169,8 @@ ProcessNode *createProcesses()
 
   int seed = time(NULL);
   srand(seed);
-  for(int i = 0; i < 62; i++) {
-    char id = PROCESS_NAMES[i];
+  for(int i = 0; i < 150; i++) {
+    char id = PROCESS_NAMES[i % 62];
     int size = assignSize(rand() % 4);
     int arrival_time = rand() % 60;
     int run_time = (rand() % 5) + 1;
